@@ -4,8 +4,8 @@ Python research scripts developed at KU Leuven for stochastic generation of sing
 
 ## Code
 
-- [Single-scale generators](single-scale/README.md) implement geometry algorithm G₄ with topology algorithm T₂ for Ketton carbonate, Berea sandstone, sintered glass and ceramic brick.
-- [Full-scale generators](full-scale/README.md) combine multiscale pore statistics to generate ceramic brick networks for four cubic domain sizes.
+- [Single-scale generators](SSPN/README.md) implement geometry algorithm G₄ with topology algorithm T₂ for Ketton carbonate, Berea sandstone, sintered glass and ceramic brick.
+- [Full-scale generators](FSPN/README.md) combine multiscale pore statistics to generate ceramic brick networks for four cubic domain sizes.
 
 The scripts require extracted pore networks in Statoil format as input. Each folder documents its inputs, configuration and outputs.
 
